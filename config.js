@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Chi Cheong Ho',
     photo: '/photoCCH.jpg',
-    bio: 'An Edmontonian.',
+    bio: 'An Edmontonian that loves to explorer and discover.',
     contacts: {
       email: '',
       facebook: '#',
