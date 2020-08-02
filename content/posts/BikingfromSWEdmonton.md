@@ -2,7 +2,7 @@
 title:  "Biking from Southwest Edmonton"
 date: "2020-08-01"
 slug: "Biking-from-SW-Edmonton"
-tags: ["Fort Edmonton","Henday", "Anthony Henday", "Windermere", "trails", "YEG", "Terwillegar Park", "Hawerlark Park", "Keillor Point"]
+tags: ["Fort Edmonton","Henday", "Anthony Henday", "Windermere", "trails", "YEG", "Terwillegar Park", "Hawerlak Park", "Keillor Point"]
 template: "post"
 draft: false
 category: "Exploring"
@@ -12,7 +12,7 @@ socialImage: ""
 
 ### Where do you want to go?
 
-I've been biking quite a lot with COVID forcing all of us to adapt.  It's my way of exercising and getting outdoors.   To give some context, I haven't ridden a bike for over 10 years.
+I've been biking quite a lot with COVID forcing all of us to adapt.  It's my way of exercising and getting outdoors.   To give some context, I haven't ridden a bike for over 10 years.   Biking outdoors and exploring, what could be better?
 
 I'm always amazed where I can go in the city using the bike trails.   The network of trails and pathways are incredible!
 Other than limitations on time and weather, I can reach most places in the city.
