@@ -2,7 +2,7 @@
 title:  "Biking from Southwest Edmonton"
 date: "2020-08-01"
 slug: "Biking-from-SW-Edmonton"
-tags: ["Fort Edmonton","Henday", "Anthony Henday", "Windermere", "trails", "YEG", "Terwillegar Park", "Hawerlak Park", "Keillor Point"]
+tags: ["Fort Edmonton","Henday", "Anthony Henday", "Windermere", "Trails", "YEG", "Terwillegar Park", "Hawerlak Park", "Keillor Point"]
 template: "post"
 draft: false
 category: "Exploring"
@@ -39,9 +39,14 @@ Every trip has the potential for detours.  This one is no different.  Had to che
 
 ![Buena Vista Park](https://i.imgur.com/NnajswY.jpeg)
 
-For those who don't know how to get to the stairs located on the right side of the whitemud drive (heading westbound) towards the 149 street turnoff.  It's in __Sir Laurier Park__.
+For those who don't know how to get to the stairs located on the right side of the whitemud drive (heading westbound) towards the 149 street turnoff.  It's in __Sir Wilfred Laurier Park__.
 
-![Sir Laurier Park](https://i.imgur.com/couqEnl.jpeg)
+![Sir Wilfred Laurier Park](https://i.imgur.com/couqEnl.jpeg)
+
+It's was supposed to be Heritage Days this weekend, but nonetheless, a nice day at Hawerlak.
+![Hawerlak Park](https://i.imgur.com/kzB6Dtd.jpg)
+
+![Lake at Hawerlak Park](https://i.imgur.com/YHHHnN8.jpg)
 
 Who would have guessed it was ~33 km, while 28&deg;.  Sure didn't seem like a 2 hour ride.
 ![Return Trip](https://i.imgur.com/3nFkqx4.jpeg)
