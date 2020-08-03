@@ -2,7 +2,7 @@
 title:  "Exploring Whitemud Creek - Blue Quill Edition"
 date: "2020-07-29"
 slug: "Blue-Quill-Whitemud-Creek"
-tags: ["Blue Quill", "Whitemud Creek", "Sweet Grass", "trails", "YEG"]
+tags: ["Blue Quill", "Whitemud Creek", "Sweet Grass", "Trails", "YEG"]
 template: "post"
 draft: false
 category: "Discovery"
@@ -18,7 +18,9 @@ Sometimes a routine bike ride turns into something memorable.  You get to see ot
 
 I expected a good, but flat ride, riding along the paved bike trail starting from Heath Road towards 106 street, the pathway is unique as it almost cut the city in half.
 
-Including the whitemud creek, who knew that this "flat" ride is actually quite challenging as it goes into and of out the creek.
+![Heath Road](https://i.imgur.com/ZGYA4N2.jpg)
+
+Including whitemud creek, who knew that this "flat" ride is actually quite challenging as it goes into and of out the creek.
 
 The hill coming going into the creek is great, the climb out of the creek is ... not flat.
 

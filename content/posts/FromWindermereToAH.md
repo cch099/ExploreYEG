@@ -2,7 +2,7 @@
 title:  "From Windermere to Anthony Henday Bridge Walkway"
 date: "2020-07-29"
 slug: "From-Windermere-To-AH"
-tags: ["Henday", "Anthony Henday", "Windermere", "trails", "YEG"]
+tags: ["Henday", "Anthony Henday", "Windermere", "Trails", "YEG"]
 template: "post"
 draft: false
 category: "FYI"
