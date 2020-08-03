@@ -14,7 +14,7 @@ socialImage: ""
 
 There's so many places in Edmonton that are accessible via our trails and pathways.  One of them is river valley.  Specifically - Whitemud creek.
 
-The creek is easy to get to, and lots of exit points, so there's no worry about getting stuck.
+The creek is easy to get to, and lots of exit points, so there's no worries about getting stuck.
 
 It can be accessed from many places. As you can see from the map below, the creek is quite expansive and lots to explore.  This post is a small slice of what's there.
 
@@ -22,7 +22,7 @@ It can be accessed from many places. As you can see from the map below, the cree
 
 For this bike trip, I took the entrance from the Brookside neighbourhood route.  From there it's a little steep to get into the creek, but the journey's worth it.  As of July 2020, there was a part of the pathway that was washed away/being repaired, but there's enough room to go around on bike or on foot.
 
-The ride is great because it's a gravel path, so not mud parties. Although there's dirt paths that branch off, it that tickles your fancy.   The scenery sure feels like it belongs somewhere else.  Safe to say, it's breath taking.
+The ride is great because it's a gravel path, so no mud parties. Although there's dirt paths that branch off, if that tickles your fancy.   The scenery sure feels like it belongs somewhere else.  Safe to say, it's breath taking.
 
 The trees are tall enough to form a nice canopy. It's nice and shady, so heat wave or not, it doesn't feel like it.  
 

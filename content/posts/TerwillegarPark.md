@@ -14,7 +14,7 @@ socialImage: ""
 
 Can't get enough of the river valley.   Let's take Terwillegar Park for example.
 
-The park is located in the southwest of the city, situated by a bend in the North Sasketchewan River.   It's multi-use:  lots of trails, off-leash, lots of room, the main entry way to the Terwillegar Footbridge.
+The park is located in the southwest of the city, situated by a bend in the North Sasketchewan River.   It's multi-use:  lots of trails, off-leash, tons of space, and the main entry way to the Terwillegar Footbridge.
 
 ![Terwillegar Park](https://i.imgur.com/0nqC5rn.jpg)
 
