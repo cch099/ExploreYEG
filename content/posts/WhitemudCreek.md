@@ -2,7 +2,7 @@
 title:  "Whitemud Creek - what a lovely place"
 date: "2020-08-02"
 slug: "Whitemud-Creek-What-A-Lovely-Place"
-tags: ["Whitemud Creek", "Whitemud Park", "Trails", "YEG"]
+tags: ["Whitemud Creek", "Whitemud Park", "Trails", "YEG", "Edmonton"]
 template: "post"
 draft: false
 category: "Exploring"

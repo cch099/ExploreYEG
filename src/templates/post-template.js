@@ -28,6 +28,7 @@ const PostTemplate = ({ data }: Props) => {
 export const query = graphql`
   query PostBySlug($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
+      timeToRead
       id
       html
       fields {

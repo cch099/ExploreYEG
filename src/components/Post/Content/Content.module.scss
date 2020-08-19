@@ -18,6 +18,13 @@
     @include margin-bottom(0)
   }
 
+  &__timeToRead {
+    font-size: $typographic-base-font-size;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+  }
+
   &__body {
     & figure {
       @include margin-bottom(1);

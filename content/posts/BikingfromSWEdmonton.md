@@ -2,7 +2,7 @@
 title:  "Biking from Southwest Edmonton"
 date: "2020-08-01"
 slug: "Biking-from-SW-Edmonton"
-tags: ["Fort Edmonton","Henday", "Anthony Henday", "Windermere", "Trails", "YEG", "Terwillegar Park", "Hawerlak Park", "Keillor Point"]
+tags: ["Fort Edmonton","Henday", "Anthony Henday", "Windermere", "Trails", "YEG", "Terwillegar Park", "Hawerlak Park", "Keillor Point", "Edmonton"]
 template: "post"
 draft: false
 category: "Exploring"

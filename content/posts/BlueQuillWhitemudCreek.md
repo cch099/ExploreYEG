@@ -2,7 +2,7 @@
 title:  "Exploring Whitemud Creek - Blue Quill Edition"
 date: "2020-07-29"
 slug: "Blue-Quill-Whitemud-Creek"
-tags: ["Blue Quill", "Whitemud Creek", "Sweet Grass", "Trails", "YEG"]
+tags: ["Blue Quill", "Whitemud Creek", "Sweet Grass", "Trails", "YEG", "Edmonton"]
 template: "post"
 draft: false
 category: "Discovery"

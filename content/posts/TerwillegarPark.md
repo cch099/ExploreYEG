@@ -2,7 +2,7 @@
 title:  "Terwillegar Park"
 date: "2020-07-20"
 slug: "TerwillegarParkLoveThisPark"
-tags: ["Fort Edmonton","YEG", "Terwillegar Park"]
+tags: ["Fort Edmonton","YEG", "Terwillegar Park", "Edmonton"]
 template: "post"
 draft: false
 category: "Exploring"
@@ -12,7 +12,7 @@ socialImage: ""
 
 ### Love this park
 
-Can't get enough of the river valley.   Let's take Terwillegar Park for example.
+Can't get enough of the river valley.  The more I discover, the more I'm impressed. Let's take Terwillegar Park for example.
 
 The park is located in the southwest of the city, situated by a bend in the North Sasketchewan River.   It's multi-use:  lots of trails, off-leash, tons of space, and the main entry way to the Terwillegar Footbridge.
 

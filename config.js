@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://blog.cch.rocks',
   pathPrefix: '/',
   title: 'Blog by Chi Cheong Ho',
   subtitle: 'Exploring YEG',
@@ -30,14 +30,14 @@ module.exports = {
     bio: 'An Edmontonian that loves to explore and discover.',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
+      facebook: '',
+      telegram: '',
       twitter: '@chicheongho',
       github: 'cch099',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',

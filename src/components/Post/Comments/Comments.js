@@ -1,6 +1,6 @@
 // @flow strict
 import React from 'react';
-import ReactDisqusComments from 'react-disqus-comments';
+//import ReactDisqusComments from 'react-disqus-comments';
 import { useSiteMetadata } from '../../../hooks';
 
 type Props = {
@@ -15,14 +15,7 @@ const Comments = ({ postTitle, postSlug }: Props) => {
     return null;
   }
 
-  return (
-    <ReactDisqusComments
-      shortname={disqusShortname}
-      identifier={postTitle}
-      title={postTitle}
-      url={url + postSlug}
-    />
-  );
+  return null;
 };
 
 export default Comments;

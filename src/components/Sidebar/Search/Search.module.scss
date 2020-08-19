@@ -1,8 +1,7 @@
 @import '../../../assets/scss/variables';
 @import '../../../assets/scss/mixins';
 
-.tagcloud {
+.search {
     font-family: $typographic-font-family;
     font-size: $typographic-small-font-size;
-    @include margin-bottom(1.5)
   }

@@ -1,8 +1,8 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js remove netlify-cms-app gatsby-plugin-netlify-cms
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add gastby-cli
 
 PATH: 
-  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\ChiCheong\bin;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Skype\Phone;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\Yarn\bin;C:\Program Files\dotnet;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Users\ChiCheong\.windows-build-tools\python27;C:\Users\ChiCheong\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Users\ChiCheong\AppData\Local\Programs\Python\Python38-32;C:\Users\ChiCheong\AppData\Local\Programs\Python\Python37\Scripts;C:\Users\ChiCheong\AppData\Local\Programs\Python\Python37;C:\Users\ChiCheong\AppData\Local\Microsoft\WindowsApps;C:\Users\ChiCheong\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ChiCheong\AppData\Local\Yarn\bin;C:\Users\ChiCheong\.dotnet\tools;C:\Users\ChiCheong\AppData\Roaming\npm;C:\Users\ChiCheong\AppData\Local\Microsoft\WindowsApps;C:\Users\ChiCheong\AppData\Local\GitHubDesktop\bin
+  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\ChiCheong\bin;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Skype\Phone;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\Yarn\bin;C:\Program Files\dotnet;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\PuTTY;C:\Users\ChiCheong\.windows-build-tools\python27;C:\Users\ChiCheong\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Users\ChiCheong\AppData\Local\Programs\Python\Python38-32;C:\Users\ChiCheong\AppData\Local\Programs\Python\Python37\Scripts;C:\Users\ChiCheong\AppData\Local\Programs\Python\Python37;C:\Users\ChiCheong\AppData\Local\Microsoft\WindowsApps;C:\Users\ChiCheong\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ChiCheong\AppData\Local\Yarn\bin;C:\Users\ChiCheong\.dotnet\tools;C:\Users\ChiCheong\AppData\Roaming\npm;C:\Users\ChiCheong\AppData\Local\Microsoft\WindowsApps;C:\Program Files\heroku\bin
 
 Yarn version: 
   1.15.2
@@ -14,7 +14,17 @@ Platform:
   win32 x64
 
 Trace: 
-  Error: EPERM: operation not permitted, unlink 'C:\Users\ChiCheong\Documents\Code\ExploreYEG\node_modules\flow-bin\flow-win64-v0.129.0\flow.exe'
+  Error: https://registry.yarnpkg.com/gastby-cli: Not found
+      at Request.params.callback [as _callback] (C:\Program Files (x86)\Yarn\lib\cli.js:65167:18)
+      at Request.self.callback (C:\Program Files (x86)\Yarn\lib\cli.js:129541:22)
+      at Request.emit (events.js:311:20)
+      at Request.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:130513:10)
+      at Request.emit (events.js:311:20)
+      at IncomingMessage.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:130435:12)
+      at Object.onceWrapper (events.js:417:28)
+      at IncomingMessage.emit (events.js:323:22)
+      at endReadableNT (_stream_readable.js:1204:12)
+      at processTicksAndRejections (internal/process/task_queues.js:84:21)
 
 npm manifest: 
   {
@@ -96,7 +106,6 @@ npm manifest:
       "normalize-scss": "^7.0.1",
       "prismjs": "^1.20.0",
       "react": "^16.13.1",
-      "react-disqus-comments": "^1.4.0",
       "react-dom": "^16.13.1",
       "react-helmet": "^6.1.0",
       "react-tagcloud": "^2.0.0"
